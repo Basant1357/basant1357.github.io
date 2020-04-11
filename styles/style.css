@@ -1,0 +1,36 @@
+html{
+    font-family: 'Satisfy', cursive;
+    font-size: 12px;
+    background-color: black;
+    color: white;
+}
+
+body{
+  background-color: #277297;
+  margin: 0 auto;
+  width: 600px;
+  padding: 0 20px 20px 20px;
+  border: 5px solid white;
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+
+h1 {
+    margin: 0;
+    padding: 20px 0;    
+    color: rgb(12, 29, 180);
+    text-shadow: 3px 3px 5px white;
+  }
+  
+  p, li {
+    font-size: 16px;    
+    line-height: 2;
+    letter-spacing: 1px;
+    border: 1px, solid, white;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
